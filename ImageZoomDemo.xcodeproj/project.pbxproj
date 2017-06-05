@@ -15,6 +15,7 @@
 		7093D93F1EE50127003485F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7093D93D1EE50127003485F5 /* LaunchScreen.storyboard */; };
 		7093D94B1EE503F9003485F5 /* timg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7093D94A1EE503F9003485F5 /* timg.jpeg */; };
 		7093D94E1EE50458003485F5 /* ZZImageZoomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7093D94D1EE50458003485F5 /* ZZImageZoomView.m */; };
+		7093D9501EE52864003485F5 /* imgZoom.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7093D94F1EE52864003485F5 /* imgZoom.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		7093D94A1EE503F9003485F5 /* timg.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg.jpeg; sourceTree = "<group>"; };
 		7093D94C1EE50458003485F5 /* ZZImageZoomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZImageZoomView.h; sourceTree = "<group>"; };
 		7093D94D1EE50458003485F5 /* ZZImageZoomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZImageZoomView.m; sourceTree = "<group>"; };
+		7093D94F1EE52864003485F5 /* imgZoom.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = imgZoom.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				7093D94A1EE503F9003485F5 /* timg.jpeg */,
+				7093D94F1EE52864003485F5 /* imgZoom.gif */,
 				7093D9321EE50127003485F5 /* AppDelegate.h */,
 				7093D9331EE50127003485F5 /* AppDelegate.m */,
 				7093D9351EE50127003485F5 /* ViewController.h */,
@@ -145,6 +148,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7093D9501EE52864003485F5 /* imgZoom.gif in Resources */,
 				7093D93F1EE50127003485F5 /* LaunchScreen.storyboard in Resources */,
 				7093D93C1EE50127003485F5 /* Assets.xcassets in Resources */,
 				7093D94B1EE503F9003485F5 /* timg.jpeg in Resources */,
